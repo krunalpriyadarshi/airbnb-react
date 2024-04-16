@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/learn-react/static/css/main.e6c13ad2.css",
-    "main.js": "/learn-react/static/js/main.6e1b02e1.js",
-    "static/js/592.292f7dec.chunk.js": "/learn-react/static/js/592.292f7dec.chunk.js",
-    "index.html": "/learn-react/index.html",
-    "main.e6c13ad2.css.map": "/learn-react/static/css/main.e6c13ad2.css.map",
-    "main.6e1b02e1.js.map": "/learn-react/static/js/main.6e1b02e1.js.map",
-    "592.292f7dec.chunk.js.map": "/learn-react/static/js/592.292f7dec.chunk.js.map"
+    "main.css": "/airbnb-react/static/css/main.e6c13ad2.css",
+    "main.js": "/airbnb-react/static/js/main.ec021cc4.js",
+    "static/js/592.292f7dec.chunk.js": "/airbnb-react/static/js/592.292f7dec.chunk.js",
+    "index.html": "/airbnb-react/index.html",
+    "main.e6c13ad2.css.map": "/airbnb-react/static/css/main.e6c13ad2.css.map",
+    "main.ec021cc4.js.map": "/airbnb-react/static/js/main.ec021cc4.js.map",
+    "592.292f7dec.chunk.js.map": "/airbnb-react/static/js/592.292f7dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6e1b02e1.js"
+    "static/js/main.ec021cc4.js"
   ]
 }
